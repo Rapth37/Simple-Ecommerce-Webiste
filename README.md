@@ -1,5 +1,8 @@
 # Simple Ecommerce Website
 ### The aim of this project is to develop a simple, responsive eCommerce website that allows user, view product details. The website will be built using HTML for structure, CSS for styling, and JavaScript for interactivity with responsive on (Mobile,Tablet and Desktop)
+![Preiview images](Assets/Images/Preview_images/Desktop.jpg)
+![Preview images](Assets/Images/Preview_images/mobile.jpg)
+![Preview images](Assets/Images/Preview_images/tablet.jpg)
 
 ## Featues:
 ### Homepage:
